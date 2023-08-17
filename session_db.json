@@ -1,0 +1,138 @@
+{
+  "sessions": [
+    {
+      "id": "135731809:135731809",
+      "data": {
+        "counter": 4,
+        "__scenes": {
+          "state": {},
+          "cursor": 2,
+          "nickName": "12"
+        },
+        "mySessionProp": -9
+      }
+    }
+  ],
+  "messages": [
+    [
+      {
+        "message_id": 17,
+        "from": {
+          "id": 135731809,
+          "is_bot": false,
+          "first_name": "Roman",
+          "last_name": "Laurinuyk",
+          "username": "itekaf",
+          "language_code": "ru",
+          "is_premium": true
+        },
+        "chat": {
+          "id": 135731809,
+          "first_name": "Roman",
+          "last_name": "Laurinuyk",
+          "username": "itekaf",
+          "type": "private"
+        },
+        "date": 1692213069,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "message_id": 19,
+        "from": {
+          "id": 135731809,
+          "is_bot": false,
+          "first_name": "Roman",
+          "last_name": "Laurinuyk",
+          "username": "itekaf",
+          "language_code": "ru",
+          "is_premium": true
+        },
+        "chat": {
+          "id": 135731809,
+          "first_name": "Roman",
+          "last_name": "Laurinuyk",
+          "username": "itekaf",
+          "type": "private"
+        },
+        "date": 1692213115,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "message_id": 36,
+        "from": {
+          "id": 135731809,
+          "is_bot": false,
+          "first_name": "Roman",
+          "last_name": "Laurinuyk",
+          "username": "itekaf",
+          "language_code": "ru",
+          "is_premium": true
+        },
+        "chat": {
+          "id": 135731809,
+          "first_name": "Roman",
+          "last_name": "Laurinuyk",
+          "username": "itekaf",
+          "type": "private"
+        },
+        "date": 1692213572,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "message_id": 38,
+        "from": {
+          "id": 135731809,
+          "is_bot": false,
+          "first_name": "Roman",
+          "last_name": "Laurinuyk",
+          "username": "itekaf",
+          "language_code": "ru",
+          "is_premium": true
+        },
+        "chat": {
+          "id": 135731809,
+          "first_name": "Roman",
+          "last_name": "Laurinuyk",
+          "username": "itekaf",
+          "type": "private"
+        },
+        "date": 1692213723,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    ]
+  ]
+}
